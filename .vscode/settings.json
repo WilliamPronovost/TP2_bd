@@ -24,7 +24,8 @@
         "functional": "c",
         "direct.h": "c",
         "filesystem": "c",
-        "future": "c"
+        "future": "c",
+        "database.h": "c"
     },
     "cmake.configureOnOpen": false
 }

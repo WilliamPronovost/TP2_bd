@@ -1,7 +1,7 @@
 #include "entrypoint.h"
 #include "sqlite3.h"
 #include "knob.h"
-
+#include "database.c"
 #include <time.h>
 #include <stdlib.h>
 
